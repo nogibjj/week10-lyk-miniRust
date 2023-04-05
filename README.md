@@ -45,7 +45,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 
 ## Usage
--- check --input INT
+-- check --input String
 output will be the reverse of the input
 
 ## References
